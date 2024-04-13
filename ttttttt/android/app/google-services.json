@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "855557731516",
+    "firebase_url": "https://thuctap-acdca-default-rtdb.firebaseio.com",
+    "project_id": "thuctap-acdca",
+    "storage_bucket": "thuctap-acdca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855557731516:android:31a23fce1d89d768a5ccb9",
+        "android_client_info": {
+          "package_name": "com.example.thuctap1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrdVJdIB_2xdKMRuFUSqVIUrcOX0D4aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
