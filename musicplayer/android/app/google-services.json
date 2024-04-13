@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "3268331263",
+    "firebase_url": "https://ikara-development-default-rtdb.firebaseio.com",
+    "project_id": "ikara-development",
+    "storage_bucket": "ikara-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3268331263:android:4c62c1b6642d12a166aeca",
+        "android_client_info": {
+          "package_name": "com.dev.lucky.dice.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3268331263-fa46ehtpgrmqtgvhn5fgutuu4kpabj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLwYpQKKnIjA8gZFwz3FP_Jn8WicmQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3268331263-85d9ei1qgkcteuhg9ejob8v884eutj1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3268331263-98uhin6ksp9sveu6k26ue98e57miob24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lucky.dice.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3268331263:android:51dfcddb445aa4a766aeca",
+        "android_client_info": {
+          "package_name": "com.dev.yokaratv.player.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3268331263-fa46ehtpgrmqtgvhn5fgutuu4kpabj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLwYpQKKnIjA8gZFwz3FP_Jn8WicmQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3268331263-85d9ei1qgkcteuhg9ejob8v884eutj1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3268331263-98uhin6ksp9sveu6k26ue98e57miob24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lucky.dice.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3268331263:android:8c4c2fb2ec19296866aeca",
+        "android_client_info": {
+          "package_name": "com.dev.yokaratv.remote.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3268331263-fa46ehtpgrmqtgvhn5fgutuu4kpabj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLwYpQKKnIjA8gZFwz3FP_Jn8WicmQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3268331263-85d9ei1qgkcteuhg9ejob8v884eutj1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3268331263-98uhin6ksp9sveu6k26ue98e57miob24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lucky.dice.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3268331263:android:4ecb9c2bd7e387ab66aeca",
+        "android_client_info": {
+          "package_name": "com.yokara.dev.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3268331263-0l121v7d5046915hueblms3rdium0i9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yokara.dev.v1",
+            "certificate_hash": "bc2ffe411e8434c1bcb2d43e0d95f0d5d40e1910"
+          }
+        },
+        {
+          "client_id": "3268331263-5iu6h1gh2nnoi4n66qitnbu1fuejbi07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yokara.dev.v1",
+            "certificate_hash": "27f8204b6e1dff48774fc938e6f6aeedcb2c51cc"
+          }
+        },
+        {
+          "client_id": "3268331263-e5931gsrt9uq90i64f12uadocnsdgag2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yokara.dev.v1",
+            "certificate_hash": "7f717fa1a0a1991fd31c27f232aa13ac2a36e6cf"
+          }
+        },
+        {
+          "client_id": "3268331263-j6csq4dp63qiq6ust7dh23usbap4btcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yokara.dev.v1",
+            "certificate_hash": "ebbdbd70aa90a2a1ea97f1b8b76492b1910e4d2e"
+          }
+        },
+        {
+          "client_id": "3268331263-fa46ehtpgrmqtgvhn5fgutuu4kpabj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLwYpQKKnIjA8gZFwz3FP_Jn8WicmQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3268331263-85d9ei1qgkcteuhg9ejob8v884eutj1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3268331263-98uhin6ksp9sveu6k26ue98e57miob24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lucky.dice.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3268331263:android:c5d0d0e78fb359a666aeca",
+        "android_client_info": {
+          "package_name": "com.yokaratv.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3268331263-fa46ehtpgrmqtgvhn5fgutuu4kpabj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLwYpQKKnIjA8gZFwz3FP_Jn8WicmQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3268331263-85d9ei1qgkcteuhg9ejob8v884eutj1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3268331263-98uhin6ksp9sveu6k26ue98e57miob24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lucky.dice.v1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
